@@ -1,0 +1,6 @@
+17.10.2015 00:06:33.3548000: 
+Method: Application_Startup. String: 16.
+File: c:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\App.xaml.cs
+Message: Start program
+=========================
+

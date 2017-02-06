@@ -1,0 +1,137 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+    <title>WowSuite Launcher README</title>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <style type=text/css>
+        a:link    { color:#3E749F; text-decoration:none}
+        a:visited { color:#3E749F; text-decoration:none}
+        a:hover   { color:#3E749F; text-decoration:underline}
+        a:active  { color:#3E749F; text-decoration:underline}
+        a.menu:hover, A.menu:active { color:black; text-decoration: none }
+        a.menu:link, A.menu:visited { color:#305367; text-decoration: none }
+        body { background: black; }
+        BODY, P, LI, TD
+        {
+            color: black;
+            font-family: verdana, arial, serif;
+            font-size: 12px;
+            line-height: 16px
+        }
+        #wrapper
+        {
+            margin: 16px auto;
+            padding: 16px 0 16px 0;
+            background: white;
+            width: 1000px;
+            border: 1px solid black;
+        }
+        .readme { text-align: center; color: #0090C0; font-weight: bold; font-size: 16px; margin: 0 4px 0 4px; }
+				
+        .heading { background: #C2E4DB; font-weight: bold; font-size: 13px; margin: 16px 0 8px 0; padding: 4px; }
+        .content { margin: 8px 24px 8px 24px; }
+
+        .content hr { border: none; border-bottom: 1px dashed gray; margin: 0 0 8px 0; }
+        .content span { color: #993300; }
+        .content samp { font-family: monospace; border: 1px dashed #CCCCFF; display: block; padding: 8px; width: 400px; background: #EDF1F8; font-weight: bold; }
+
+        ul li span.red { color: red; }
+        ul li span.green { color: green; }
+
+    </style>
+</head>
+<body>
+
+<div id="wrapper">
+    <div class="readme"><img src="img/logo.png"/></div>
+    <div class="heading">Information About The Script</div>
+    <div class="content">
+        <p>Developed in SyntaxWEB Team</p>
+        <p>This script is designed to process and display information about the game server, as well as for the convenience of players.</p>		
+		<p>The project was developed on C# and WPF on Visual Studio 2013 (We strongly recommend you to use this version)</p>
+        <p>A complete set of the script includes: Source code and Server part</p>
+        <p>Our team has invested a lot of effort and time. We hope that you will appreciate our product</p>
+        <p>Thank you for purchasing and using our product ! Team SyntaxWEB wish to your game server success and prosperity !</p>
+    </div>
+
+    <div class="heading">Installation Launcher</div>
+    <div class="content">
+        <p>Open the project in Visual Studio 2013</p>
+        <p>Open <b>WowSuite.Launcher</b>. Double-clicking, open the "Properties" and go to the tab "Settings"</p>
+		<img src="img/properties.png" width="950" height="500" />
+		<p><b>Edit the settings for your server</b></p>
+		
+		<p>You can see the variables such as: <b>Links to your project</b>, <b>Name your server</b>, <b>Links to the server part</b>, <b>Server and Mysql IP:PORT</b>, <b>Language of your game client</b>,<b>Realmlist settings</b> and etc.   </p>
+		<b>Attention!!! If you change a string "SKEY_API" -  don't forget change this string in file "launcher_api.php" at 3 line</b>
+        <hr/><br>
+		<p>Open <b>WowSuite.Constants</b>. Double-clicking, open the "Wow.cs"</p>
+		<p>And change the line <b>LOCALE_FOLDER_NAME</b> in the language of your game client</p>
+		<img src="img/constants.png" width="950" height="500" />
+	</div>
+	<br>
+	
+    <div class="heading">Installation Server Side</div>
+    <div class="content">
+	<p>Copy folder "launcher" from "Server Side" in the root of your Web site</p>
+	<p>Create 2 database "icontemplate" and "news"</p>
+	<p>Execute 3 sql files into you DB (hot_news.sql  and  news_launcher.sql => in "news" DB) (icontemplate.sql => in "icontemplate" DB)</p>
+	<p>Configure file config.php in "launcher/api/' folder</p>
+	<p>Open file "lang" in "website/launcher/files/" and change the language of your game client</p>
+
+	<p><b>Settings:</b></p>
+	<p><b>A database of news for the launcher</b></p>
+	<p>SQL</p>
+	<p><b>INSERT INTO `news_launcher` VALUES ('1', 'HEAD NEWS', 'BODY NEWS', 'http://127.0.0.1/');</b></p>
+	<p>Where values "ID news", "Title news", "Text news", "Link to news on website"</p></p><br>
+	<p><b>A database of hot_news for the launcher</b></p>
+	<p>SQL</p>
+	<p><b>INSERT INTO `hot_news` VALUES ('YOUR TEXT HERE');</b></p>
+	<p>If you want to remove a hot news-simply leave the field blank
+</p>
+    </div>
+
+	
+    <div class="heading">Updating Game Client</div>
+    <div class="content">
+    <p>In order to properly create a file of information for game client updates, needed:</p>
+	<ul>
+    <li>Copy you patches (*.mpq) in "website/launcher/files/"</li>
+    <li>Run program "CreatePack". The program will show you the current version of the update as well as ask you to enter the version number of the update. Attention! You must enter the number of the next update.</li>
+	</ul>
+	<p><b>Patch name should be:</b></p>
+	<p>If you want your patch was loaded in path of "Data", the name of the patch should be (For example) - <b>Patch-9.mpq</b></p>
+	<p>If you want your patch was loaded in path of "enGB(or you lang)", the name of the patch should be (For example) - <b>Patch-enGB-22.mpq</b></p>
+    </div>
+	<br>
+	
+	
+	<div class="heading">Game files</div>
+    <div class="content">
+    <p>When you have compiled the launcher and set up Server Part, you should prepare a launcher for your players</p>
+	<p>After compiling launcher open - wowsuite-launcher/launcher/bin/Debug(or Release) and find 3 files</p>
+	<ul>
+	<li>Launcher.exe</li>
+	<li>WowSuite.Constants.dll</li>
+	<li>WowSuite.Utils.dll</li>
+	</ul>
+	<p>These three files you need to send for your players</p>
+	<p>Players must place the files within a directory to the root of the game</p>
+    </div>
+	
+	<div class="heading">Possible problems</div>
+    <div class="content">
+    <p>If you compile your project , you have the error associated with a certificate:</p>
+	<p>Open file - <b>wowsuite-launcher/Launcher/WowSuite.Launcher.csproj</b></p>
+	<p>and delete this PropertyGroups:</p>
+	<li>ManifestCertificateThumbprint</li>
+	<li>ManifestKeyFile</li>
+	<li>GenerateManifests</li>
+	<li>SignManifests</li>
+	<p>and Rebuild Solution</p>
+	<p>Players must place the files within a directory to the root of the game</p>
+	<br>
+	<p>For all other issues, we will be happy to answer in Skype: Darksapfir1</p>
+    </div>
+</div>
+</body>
+</html>

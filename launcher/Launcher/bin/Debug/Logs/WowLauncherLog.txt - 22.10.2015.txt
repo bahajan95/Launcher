@@ -1,0 +1,24 @@
+22.10.2015 02:40:13.9556000: 
+Method: Application_Startup. String: 16.
+File: c:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\App.xaml.cs
+Message: Start program
+=========================
+
+22.10.2015 02:40:56.5026000: 
+Method: Application_Startup. String: 16.
+File: c:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\App.xaml.cs
+Message: Start program
+=========================
+
+22.10.2015 02:42:16.0646000: 
+Method: Application_Startup. String: 16.
+File: c:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\App.xaml.cs
+Message: Start program
+=========================
+
+22.10.2015 02:42:18.3896000: 
+Method: Application_Startup. String: 16.
+File: c:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\App.xaml.cs
+Message: Start program
+=========================
+

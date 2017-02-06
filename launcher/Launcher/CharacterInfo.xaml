@@ -1,0 +1,427 @@
+﻿<Window x:Class="WowSuite.Launcher.CharacterInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:animation="clr-namespace:WowSuite.Launcher.Animation"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        Title="Character Info "
+        Width="607"
+        Height="473"
+        Background="#FF28282B"
+        Icon="111111.ico"
+        Loaded="Window_Loaded"
+        MouseLeftButtonDown="Window_MouseLeftButtonDown"
+        ResizeMode="NoResize"
+        Topmost="True"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        mc:Ignorable="d">
+    <Grid>
+        <Image x:Name="bgCharInfo"
+               Width="607"
+               Height="473"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Top"
+               Source="{Binding ImagePath}" />
+        <Button x:Name="closeBut"
+                Width="21"
+                Height="21"
+                Margin="578,4,4,448"
+                Click="closeBut_Click"
+                Content="r"
+                FontSize="16"
+                Style="{StaticResource WindowBorderButtonStyle}"
+                ToolTip="Close" />
+        <ListBox x:Name="charInfoBox"
+                 Margin="2,10,410,10"
+                 Background="{x:Null}"
+                 BorderBrush="Transparent"
+                 ItemTemplate="{DynamicResource CharTemplate}"
+                 ItemsSource="{Binding}">
+            <ListBox.Resources>
+                <DataTemplate x:Key="CharTemplate">
+                    <Grid>
+                        <StackPanel Grid.Column="1" Margin="5">
+                            <StackPanel Orientation="Horizontal" TextBlock.FontWeight="Bold">
+                                <TextBlock FontSize="17"
+                                           Foreground="White"
+                                           Text="{Binding Name,
+                                                          FallbackValue=Name}" />
+                                <!--  Имя чара  -->
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" TextBlock.FontWeight="Bold">
+                                <TextBlock FontSize="14"
+                                           Foreground="#FFB9AE7B"
+                                           Text="" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" TextBlock.FontWeight="Bold">
+                                <TextBlock FontSize="14"
+                                           Foreground="White"
+                                           Text="General Info" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" TextBlock.FontWeight="Bold">
+                                <TextBlock Foreground="#FFB100" Text="Level:  " />
+                                <TextBlock Foreground="#FFB100" Text="{Binding Level, FallbackValue=Level}" />
+                                <!--  Уровень чара  -->
+                            </StackPanel>
+
+                            <StackPanel Orientation="Horizontal" TextBlock.FontWeight="Bold">
+                                <TextBlock Foreground="#FFB100" Text="Faction:  " />
+                                <TextBlock Foreground="#FFB100" Text="{Binding Side, FallbackValue=Side}" />
+                                <!--  Фракция чара  -->
+                            </StackPanel>
+
+                            <StackPanel Orientation="Horizontal" TextBlock.FontWeight="Bold">
+                                <TextBlock Foreground="#FFB100" Text="Class:  " />
+                                <TextBlock Foreground="#FFB100" Text="{Binding Class, FallbackValue=Class}" />
+                                <!--  Класс чара  -->
+                            </StackPanel>
+
+                            <StackPanel Orientation="Horizontal" TextBlock.FontWeight="Bold">
+                                <TextBlock Foreground="#FFB100" Text="{Binding Health, FallbackValue=Health}" />
+                                <!--  Здоровье чара  -->
+                            </StackPanel>
+
+                            <StackPanel Orientation="Horizontal" TextBlock.FontWeight="Bold">
+                                <TextBlock Foreground="#FFB100" Text="{Binding Power, FallbackValue=Power}" />
+                                <!--  Сила чара  -->
+                            </StackPanel>
+
+                            <!--<StackPanel Orientation="Horizontal" TextBlock.FontWeight="Bold">
+                                <TextBlock Foreground="#FFB100" Text="{Binding TotalTime, FallbackValue=TotalTime}" />
+                            -->
+                            <!--  Время в игре  -->
+                            <!--
+                            </StackPanel>-->
+                            <!--  PVP  -->
+                            <StackPanel Orientation="Horizontal" TextBlock.FontWeight="Bold">
+                                <TextBlock FontSize="14"
+                                           Foreground="#FFB9AE7B"
+                                           Text="" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" TextBlock.FontWeight="Bold">
+                                <TextBlock FontSize="14"
+                                           Foreground="White"
+                                           Text="PvP" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" TextBlock.FontWeight="Bold">
+                                <TextBlock Foreground="#FFB100" Text="{Binding Rank, FallbackValue=Rank}" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" TextBlock.FontWeight="Bold">
+                                <TextBlock Foreground="#FFB100" Text="{Binding Honor, FallbackValue=Honor}" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" TextBlock.FontWeight="Bold">
+                                <TextBlock Foreground="#FFB100" Text="{Binding Arena, FallbackValue=Arena}" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" TextBlock.FontWeight="Bold">
+                                <TextBlock Foreground="#FFB100" Text="{Binding Kills, FallbackValue=Kills}" />
+                            </StackPanel>
+                            <!--  Задания и достижения  -->
+                            <StackPanel Orientation="Horizontal" TextBlock.FontWeight="Bold">
+                                <TextBlock FontSize="14"
+                                           Foreground="White"
+                                           Text="" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" TextBlock.FontWeight="Bold">
+                                <TextBlock FontSize="15"
+                                           Foreground="White"
+                                           Text="Quests and Achievements" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" TextBlock.FontWeight="Bold">
+                                <TextBlock Foreground="#FFB100" Text="{Binding Quest, FallbackValue=Quest}" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" TextBlock.FontWeight="Bold">
+                                <TextBlock Foreground="#FFB100" Text="{Binding Achiev, FallbackValue=Achiev}" />
+                            </StackPanel>
+
+
+
+                        </StackPanel>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.Resources>
+        </ListBox>
+
+        <Image x:Name="slot0" Width="50"
+               Height="50"
+               Margin="195,33,0,0"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Top"
+               Source="Resources/inventory/0.png"/>
+
+        <Image x:Name="slot1" Width="50"
+        	Height="50"
+        	Margin="195,83,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	Source="Resources/inventory/1.png"/>
+
+        <Image x:Name="slot2" Width="50"
+        	Height="50"
+        	Margin="195,138,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	Source="Resources/inventory/2.png"/>
+
+        <Image x:Name="slot3" Width="50"
+        	Height="50"
+        	Margin="195,193,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	Source="Resources/inventory/3.png"/>
+
+        <Image x:Name="slot4" Width="50"
+        	Height="50"
+        	Margin="195,248,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	Source="Resources/inventory/4.png"/>
+
+        <Image x:Name="slot5" Width="50"
+        	Height="50"
+        	Margin="195,303,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	Source="Resources/inventory/5.png"/>
+
+        <Image x:Name="slot6" Width="50"
+        	Height="50"
+        	Margin="195,358,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	Source="Resources/inventory/6.png"/>
+
+        <Image x:Name="slot7" Width="50"
+        	Height="50"
+        	Margin="195,413,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	Source="Resources/inventory/7.png"/>
+
+        <Image x:Name="slot8" Width="50"
+        	Height="50"
+        	Margin="461,33,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	Source="Resources/inventory/8.png"/>
+
+        <Image x:Name="slot9" Width="50"
+        	Height="50"
+        	Margin="461,88,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	Source="Resources/inventory/9.png"/>
+
+        <Image x:Name="slot12" Width="50"
+        	Height="50"
+        	Margin="461,248,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	Source="Resources/inventory/12.png"/>
+
+        <Image x:Name="slot13" Width="50"
+        	Height="50"
+        	Margin="461,303,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	Source="Resources/inventory/13.png"/>
+
+        <Image x:Name="slot14" Width="50"
+        	Height="50"
+        	Margin="461,358,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	Source="Resources/inventory/14.png"/>
+
+        <Image x:Name="slot15" Width="50"
+        	Height="50"
+        	Margin="461,413,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	Source="Resources/inventory/15.png"/>
+
+        <Image x:Name="slot10" Width="50"
+        	Height="50"
+        	Margin="461,143,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	Source="Resources/inventory/10.png"/>
+
+        <Image x:Name="slot11" Width="50"
+        	Height="50"
+        	Margin="461,193,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	Source="Resources/inventory/11.png"/>
+
+        <Image x:Name="slot16" Width="50"
+        	Height="50"
+        	Margin="274,393,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	Source="Resources/inventory/16.png"/>
+
+        <Image x:Name="slot17" Width="50"
+        	Height="50"
+        	Margin="329,393,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	Source="Resources/inventory/17.png"/>
+
+        <Image x:Name="slot18" Width="50"
+        	Height="50"
+        	Margin="384,393,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	Source="Resources/inventory/18.png"/>
+
+        <!-- конец бг иконок и начало иконок, которые будут биндить ссылку на картинку  -->
+
+        <Image x:Name="s0" Width="46"
+               Height="46"
+               Margin="197,34,0,0"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Top"
+               />
+
+        <Image x:Name="s1" Width="46"
+        	Height="46"
+        	Margin="197,85,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	/>
+
+        <Image x:Name="s2" Width="46"
+        	Height="46"
+        	Margin="197,140,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	/>
+
+        <Image x:Name="s3" Width="46"
+        	Height="46"
+        	Margin="197,305,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	/>
+
+        <Image x:Name="s4" Width="46"
+        	Height="46"
+        	Margin="197,250,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	/>
+
+        <Image x:Name="s5" Width="46"
+        	Height="46"
+        	Margin="463,90,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	/>
+
+        <Image x:Name="s6" Width="46"
+        	Height="46"
+        	Margin="463,145,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	/>
+
+        <Image x:Name="s7" Width="46"
+        	Height="46"
+        	Margin="463,195,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	/>
+
+        <Image x:Name="s8" Width="46"
+        	Height="46"
+        	Margin="197,415,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	/>
+
+        <Image x:Name="s9" Width="46"
+        	Height="46"
+        	Margin="463,35,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	/>
+
+        <Image x:Name="s12" Width="46"
+        	Height="46"
+        	Margin="463,360,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	/>
+
+        <Image x:Name="s13" Width="46"
+        	Height="46"
+        	Margin="463,415,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	/>
+
+        <Image x:Name="s14" Width="46"
+        	Height="46"
+        	Margin="197,195,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	/>
+
+        <Image x:Name="s15" Width="46"
+        	Height="46"
+        	Margin="275,395,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	/>
+
+        <Image x:Name="s10" Width="46"
+        	Height="46"
+        	Margin="463,250,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	/>
+
+        <Image x:Name="s11" Width="46"
+        	Height="46"
+        	Margin="463,305,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	/>
+
+        <Image x:Name="s16" Width="46"
+        	Height="46"
+        	Margin="331,395,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	/>
+
+        <Image x:Name="s17" Width="46"
+        	Height="46"
+        	Margin="386,395,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	/>
+
+        <Image x:Name="s18" Width="46"
+        	Height="46"
+        	Margin="197,360,0,0"
+        	HorizontalAlignment="Left"
+        	VerticalAlignment="Top"
+        	/>
+
+
+
+
+
+
+        <animation:AnimatedImageControl x:Name="initIndicator"
+                                        Width="40"
+                                        Height="40"
+                                        Margin="0,0,238,213"
+                                        HorizontalAlignment="Right"
+                                        VerticalAlignment="Bottom" />
+
+
+    </Grid>
+</Window>

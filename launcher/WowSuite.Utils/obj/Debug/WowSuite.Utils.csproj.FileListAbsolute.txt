@@ -1,0 +1,24 @@
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\WowSuite.Utils\bin\Debug\WowSuite.Utils.dll
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\WowSuite.Utils\bin\Debug\WowSuite.Utils.pdb
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\WowSuite.Utils\obj\Debug\WowSuite.Utils.dll
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\WowSuite.Utils\obj\Debug\WowSuite.Utils.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\WowSuite.Utils\bin\Debug\WowSuite.Utils.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\WowSuite.Utils\bin\Debug\WowSuite.Utils.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\WowSuite.Utils\obj\Debug\WowSuite.Utils.csprojResolveAssemblyReference.cache
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\WowSuite.Utils\obj\Debug\WowSuite.Utils.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\WowSuite.Utils\obj\Debug\WowSuite.Utils.pdb
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\WowSuite.Utils\bin\Debug\WowSuite.Utils.dll
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\WowSuite.Utils\bin\Debug\WowSuite.Utils.pdb
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\WowSuite.Utils\obj\Debug\WowSuite.Utils.csprojResolveAssemblyReference.cache
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\WowSuite.Utils\obj\Debug\WowSuite.Utils.dll
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\WowSuite.Utils\obj\Debug\WowSuite.Utils.pdb
+I:\WoWProjekt\FM Launcher\launcher\WowSuite.Utils\bin\Debug\WowSuite.Utils.dll
+I:\WoWProjekt\FM Launcher\launcher\WowSuite.Utils\bin\Debug\WowSuite.Utils.pdb
+I:\WoWProjekt\FM Launcher\launcher\WowSuite.Utils\obj\Debug\WowSuite.Utils.csprojResolveAssemblyReference.cache
+I:\WoWProjekt\FM Launcher\launcher\WowSuite.Utils\obj\Debug\WowSuite.Utils.dll
+I:\WoWProjekt\FM Launcher\launcher\WowSuite.Utils\obj\Debug\WowSuite.Utils.pdb
+D:\WoWProjekt\Backup\FM Launcher\launcher\WowSuite.Utils\bin\Debug\WowSuite.Utils.dll
+D:\WoWProjekt\Backup\FM Launcher\launcher\WowSuite.Utils\bin\Debug\WowSuite.Utils.pdb
+D:\WoWProjekt\Backup\FM Launcher\launcher\WowSuite.Utils\obj\Debug\WowSuite.Utils.csprojResolveAssemblyReference.cache
+D:\WoWProjekt\Backup\FM Launcher\launcher\WowSuite.Utils\obj\Debug\WowSuite.Utils.dll
+D:\WoWProjekt\Backup\FM Launcher\launcher\WowSuite.Utils\obj\Debug\WowSuite.Utils.pdb

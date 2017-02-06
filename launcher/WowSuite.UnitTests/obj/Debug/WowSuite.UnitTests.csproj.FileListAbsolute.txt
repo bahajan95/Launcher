@@ -1,0 +1,23 @@
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\WowSuite.UnitTests\bin\Debug\WowSuite.UnitTests.dll
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\WowSuite.UnitTests\bin\Debug\WowSuite.UnitTests.pdb
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\WowSuite.UnitTests\bin\Debug\WowSuite.Utils.dll
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\WowSuite.UnitTests\bin\Debug\WowSuite.Utils.pdb
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\WowSuite.UnitTests\obj\Debug\WowSuite.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\WowSuite.UnitTests\obj\Debug\WowSuite.UnitTests.dll
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\WowSuite.UnitTests\obj\Debug\WowSuite.UnitTests.pdb
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\WowSuite.UnitTests\bin\Debug\WowSuite.UnitTests.dll
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\WowSuite.UnitTests\bin\Debug\WowSuite.UnitTests.pdb
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\WowSuite.UnitTests\bin\Debug\WowSuite.Utils.dll
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\WowSuite.UnitTests\bin\Debug\WowSuite.Utils.pdb
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\WowSuite.UnitTests\obj\Debug\WowSuite.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\WowSuite.UnitTests\obj\Debug\WowSuite.UnitTests.dll
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\WowSuite.UnitTests\obj\Debug\WowSuite.UnitTests.pdb
+D:\WoWProjekt\Backup\FM Launcher\launcher\WowSuite.UnitTests\bin\Debug\WowSuite.UnitTests.dll
+D:\WoWProjekt\Backup\FM Launcher\launcher\WowSuite.UnitTests\bin\Debug\WowSuite.UnitTests.pdb
+D:\WoWProjekt\Backup\FM Launcher\launcher\WowSuite.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\WoWProjekt\Backup\FM Launcher\launcher\WowSuite.UnitTests\bin\Debug\WowSuite.Utils.dll
+D:\WoWProjekt\Backup\FM Launcher\launcher\WowSuite.UnitTests\bin\Debug\WowSuite.Utils.pdb
+D:\WoWProjekt\Backup\FM Launcher\launcher\WowSuite.UnitTests\bin\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\WoWProjekt\Backup\FM Launcher\launcher\WowSuite.UnitTests\obj\Debug\WowSuite.UnitTests.csprojResolveAssemblyReference.cache
+D:\WoWProjekt\Backup\FM Launcher\launcher\WowSuite.UnitTests\obj\Debug\WowSuite.UnitTests.dll
+D:\WoWProjekt\Backup\FM Launcher\launcher\WowSuite.UnitTests\obj\Debug\WowSuite.UnitTests.pdb

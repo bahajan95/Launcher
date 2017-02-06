@@ -1,0 +1,40 @@
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\CreatePack\bin\Debug\CreatePack.exe.config
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\CreatePack\bin\Debug\CreatePack.exe
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\CreatePack\bin\Debug\CreatePack.pdb
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\CreatePack\bin\Debug\WowSuite.Constants.dll
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\CreatePack\bin\Debug\WowSuite.Utils.dll
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\CreatePack\bin\Debug\WowSuite.Constants.pdb
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\CreatePack\bin\Debug\WowSuite.Utils.pdb
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\CreatePack\obj\Debug\WowSuite.CreatePack.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\CreatePack\obj\Debug\CreatePack.exe
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\CreatePack\obj\Debug\CreatePack.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\CreatePack\bin\Debug\CreatePack.exe.config
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\CreatePack\obj\Debug\CreatePack.exe
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\CreatePack\obj\Debug\CreatePack.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\CreatePack\bin\Debug\CreatePack.exe
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\CreatePack\bin\Debug\CreatePack.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\CreatePack\bin\Debug\WowSuite.Constants.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\CreatePack\bin\Debug\WowSuite.Utils.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\CreatePack\bin\Debug\WowSuite.Constants.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\CreatePack\bin\Debug\WowSuite.Utils.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\CreatePack\obj\Debug\WowSuite.CreatePack.csprojResolveAssemblyReference.cache
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\CreatePack\bin\Debug\CreatePack.exe.config
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\CreatePack\bin\Debug\CreatePack.exe
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\CreatePack\bin\Debug\CreatePack.pdb
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\CreatePack\bin\Debug\WowSuite.Constants.dll
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\CreatePack\bin\Debug\WowSuite.Utils.dll
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\CreatePack\bin\Debug\WowSuite.Constants.pdb
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\CreatePack\bin\Debug\WowSuite.Utils.pdb
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\CreatePack\obj\Debug\WowSuite.CreatePack.csprojResolveAssemblyReference.cache
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\CreatePack\obj\Debug\CreatePack.exe
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\CreatePack\obj\Debug\CreatePack.pdb
+D:\WoWProjekt\Backup\FM Launcher\launcher\CreatePack\bin\Debug\CreatePack.exe.config
+D:\WoWProjekt\Backup\FM Launcher\launcher\CreatePack\bin\Debug\CreatePack.exe
+D:\WoWProjekt\Backup\FM Launcher\launcher\CreatePack\bin\Debug\CreatePack.pdb
+D:\WoWProjekt\Backup\FM Launcher\launcher\CreatePack\bin\Debug\WowSuite.Constants.dll
+D:\WoWProjekt\Backup\FM Launcher\launcher\CreatePack\bin\Debug\WowSuite.Utils.dll
+D:\WoWProjekt\Backup\FM Launcher\launcher\CreatePack\bin\Debug\WowSuite.Constants.pdb
+D:\WoWProjekt\Backup\FM Launcher\launcher\CreatePack\bin\Debug\WowSuite.Utils.pdb
+D:\WoWProjekt\Backup\FM Launcher\launcher\CreatePack\obj\Debug\WowSuite.CreatePack.csprojResolveAssemblyReference.cache
+D:\WoWProjekt\Backup\FM Launcher\launcher\CreatePack\obj\Debug\CreatePack.exe
+D:\WoWProjekt\Backup\FM Launcher\launcher\CreatePack\obj\Debug\CreatePack.pdb

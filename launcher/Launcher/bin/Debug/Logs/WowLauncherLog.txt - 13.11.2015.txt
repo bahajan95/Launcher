@@ -1,0 +1,6 @@
+13.11.2015 06:02:53.6750000: 
+Method: Application_Startup. String: 16.
+File: d:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\App.xaml.cs
+Message: Start program
+=========================
+

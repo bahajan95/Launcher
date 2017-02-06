@@ -1,0 +1,205 @@
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\bin\Debug\Launcher.exe.config
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\bin\Debug\Launcher.exe.manifest
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\bin\Debug\Launcher.application
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\bin\Debug\Launcher.exe
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\bin\Debug\Launcher.pdb
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\bin\Debug\WowSuite.Constants.dll
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\bin\Debug\WowSuite.Utils.dll
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\bin\Debug\WowSuite.Constants.pdb
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\bin\Debug\WowSuite.Utils.pdb
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\WowSuite.Launcher.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\Controls\NewsRotator.baml
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\Resources\Dictionaries\Buttons.baml
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\Resources\Dictionaries\Effects.baml
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\Resources\Dictionaries\Progressbar.baml
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\Resources\Dictionaries\Scroll.baml
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\SettingsWindow.baml
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\App.baml
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.g.cs
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\Controls\NewsRotator.g.cs
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\SettingsWindow.g.cs
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\App.g.cs
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\Launcher_MarkupCompile.cache
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\Launcher_MarkupCompile.lref
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.baml
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\Launcher.g.resources
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\WowSuite.Launcher.Properties.Resources.resources
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\WowSuite.Launcher.csproj.GenerateResource.Cache
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\Launcher.TrustInfo.xml
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\Launcher.exe.manifest
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\Launcher.application
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\Launcher.exe
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\Launcher.pdb
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\Controls\StatisticControl.baml
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\Controls\StatisticControl.g.cs
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\OnlineStat.g.cs
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\OnlineStat.baml
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\CharacterInfo.baml
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Launcher\obj\Debug\CharacterInfo.g.cs
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\bin\Debug\Launcher.exe.config
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\Launcher.exe
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\Launcher.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\bin\Debug\Launcher.exe.manifest
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\bin\Debug\Launcher.application
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\bin\Debug\Launcher.exe
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\bin\Debug\Launcher.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\bin\Debug\WowSuite.Constants.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\bin\Debug\WowSuite.Utils.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\bin\Debug\WowSuite.Constants.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\bin\Debug\WowSuite.Utils.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\WowSuite.Launcher.csprojResolveAssemblyReference.cache
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\Controls\NewsRotator.baml
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\Controls\StatisticControl.baml
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\Resources\Dictionaries\Buttons.baml
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\Resources\Dictionaries\Effects.baml
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\Resources\Dictionaries\Progressbar.baml
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\Resources\Dictionaries\Scroll.baml
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\SettingsWindow.baml
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\App.baml
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.g.cs
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\CharacterInfo.g.cs
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\Controls\NewsRotator.g.cs
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\Controls\StatisticControl.g.cs
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\MainWindow.g.cs
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\OnlineStat.g.cs
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\SettingsWindow.g.cs
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\App.g.cs
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\Launcher_MarkupCompile.cache
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\Launcher_MarkupCompile.lref
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.baml
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\CharacterInfo.baml
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\MainWindow.baml
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\OnlineStat.baml
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\Launcher.g.resources
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\WowSuite.Launcher.Properties.Resources.resources
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\WowSuite.Launcher.csproj.GenerateResource.Cache
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\Launcher.TrustInfo.xml
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\Launcher.exe.manifest
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Launcher\obj\Debug\Launcher.application
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\bin\Debug\Launcher.exe.config
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\Launcher.exe
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\Launcher.pdb
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\WowSuite.Launcher.csprojResolveAssemblyReference.cache
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\Controls\NewsRotator.baml
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\Controls\StatisticControl.baml
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\Resources\Dictionaries\Buttons.baml
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\Resources\Dictionaries\Effects.baml
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\Resources\Dictionaries\Progressbar.baml
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\Resources\Dictionaries\Scroll.baml
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\SettingsWindow.baml
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\App.baml
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.g.cs
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\CharacterInfo.g.cs
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\Controls\NewsRotator.g.cs
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\Controls\StatisticControl.g.cs
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\OnlineStat.g.cs
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\SettingsWindow.g.cs
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\App.g.cs
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\Launcher_MarkupCompile.cache
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\Launcher_MarkupCompile.lref
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\bin\Debug\Launcher.exe.manifest
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\bin\Debug\Launcher.application
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\bin\Debug\Launcher.exe
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\bin\Debug\Launcher.pdb
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\bin\Debug\WowSuite.Constants.dll
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\bin\Debug\WowSuite.Utils.dll
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\bin\Debug\WowSuite.Constants.pdb
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\bin\Debug\WowSuite.Utils.pdb
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.baml
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\CharacterInfo.baml
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\MainWindow.baml
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\OnlineStat.baml
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\Launcher.g.resources
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\WowSuite.Launcher.Properties.Resources.resources
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\WowSuite.Launcher.csproj.GenerateResource.Cache
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\Launcher.TrustInfo.xml
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\Launcher.exe.manifest
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Launcher\obj\Debug\Launcher.application
+I:\WoWProjekt\FM Launcher\launcher\Launcher\bin\Debug\Launcher.exe.config
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\Launcher.exe
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\Launcher.pdb
+I:\WoWProjekt\FM Launcher\launcher\Launcher\bin\Debug\Launcher.exe.manifest
+I:\WoWProjekt\FM Launcher\launcher\Launcher\bin\Debug\Launcher.application
+I:\WoWProjekt\FM Launcher\launcher\Launcher\bin\Debug\Launcher.exe
+I:\WoWProjekt\FM Launcher\launcher\Launcher\bin\Debug\Launcher.pdb
+I:\WoWProjekt\FM Launcher\launcher\Launcher\bin\Debug\WowSuite.Constants.dll
+I:\WoWProjekt\FM Launcher\launcher\Launcher\bin\Debug\WowSuite.Utils.dll
+I:\WoWProjekt\FM Launcher\launcher\Launcher\bin\Debug\WowSuite.Constants.pdb
+I:\WoWProjekt\FM Launcher\launcher\Launcher\bin\Debug\WowSuite.Utils.pdb
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\WowSuite.Launcher.csprojResolveAssemblyReference.cache
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\Controls\NewsRotator.baml
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\Controls\StatisticControl.baml
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\Resources\Dictionaries\Buttons.baml
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\Resources\Dictionaries\Effects.baml
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\Resources\Dictionaries\Progressbar.baml
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\Resources\Dictionaries\Scroll.baml
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\SettingsWindow.baml
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\App.baml
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.g.cs
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\CharacterInfo.g.cs
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\Controls\NewsRotator.g.cs
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\Controls\StatisticControl.g.cs
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\MainWindow.g.cs
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\OnlineStat.g.cs
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\SettingsWindow.g.cs
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\App.g.cs
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\Launcher_MarkupCompile.cache
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\Launcher_MarkupCompile.lref
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.baml
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\CharacterInfo.baml
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\MainWindow.baml
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\OnlineStat.baml
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\Launcher.g.resources
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\WowSuite.Launcher.Properties.Resources.resources
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\WowSuite.Launcher.csproj.GenerateResource.Cache
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\Launcher.TrustInfo.xml
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\Launcher.exe.manifest
+I:\WoWProjekt\FM Launcher\launcher\Launcher\obj\Debug\Launcher.application
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\bin\Debug\Launcher.exe.config
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Launcher.exe
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Launcher.pdb
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\bin\Debug\Launcher.exe.manifest
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\bin\Debug\Launcher.application
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\bin\Debug\Launcher.exe
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\bin\Debug\Launcher.pdb
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\bin\Debug\WowSuite.Constants.dll
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\bin\Debug\WowSuite.Utils.dll
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\bin\Debug\WowSuite.Constants.pdb
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\bin\Debug\WowSuite.Utils.pdb
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\WowSuite.Launcher.csprojResolveAssemblyReference.cache
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Controls\NewsRotator.baml
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Controls\StatisticControl.baml
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Resources\Dictionaries\Buttons.baml
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Resources\Dictionaries\Effects.baml
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Resources\Dictionaries\Progressbar.baml
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Resources\Dictionaries\Scroll.baml
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\SettingsWindow.baml
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\App.baml
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.g.cs
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\CharacterInfo.g.cs
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Controls\NewsRotator.g.cs
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Controls\StatisticControl.g.cs
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\MainWindow.g.cs
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\OnlineStat.g.cs
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\SettingsWindow.g.cs
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\App.g.cs
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Launcher_MarkupCompile.cache
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Launcher_MarkupCompile.lref
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.baml
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\CharacterInfo.baml
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\MainWindow.baml
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\OnlineStat.baml
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Launcher.g.resources
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\WowSuite.Launcher.Properties.Resources.resources
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\WowSuite.Launcher.csproj.GenerateResource.Cache
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Launcher.TrustInfo.xml
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Launcher.exe.manifest
+D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Launcher.application

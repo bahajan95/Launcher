@@ -1,0 +1,24 @@
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Constants\bin\Debug\WowSuite.Constants.dll
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Constants\bin\Debug\WowSuite.Constants.pdb
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Constants\obj\Debug\WowSuite.Constants.dll
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Constants\obj\Debug\WowSuite.Constants.pdb
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Constants\obj\Debug\WowSuite.Constants.csprojResolveAssemblyReference.cache
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Constants\bin\Debug\WowSuite.Constants.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Constants\bin\Debug\WowSuite.Constants.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Constants\obj\Debug\WowSuite.Constants.csprojResolveAssemblyReference.cache
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Constants\obj\Debug\WowSuite.Constants.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Constants\obj\Debug\WowSuite.Constants.pdb
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Constants\bin\Debug\WowSuite.Constants.dll
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Constants\bin\Debug\WowSuite.Constants.pdb
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Constants\obj\Debug\WowSuite.Constants.csprojResolveAssemblyReference.cache
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Constants\obj\Debug\WowSuite.Constants.dll
+C:\Users\LocalAdmin\Documents\GitHub\fmlauncher\launcher\Constants\obj\Debug\WowSuite.Constants.pdb
+I:\WoWProjekt\FM Launcher\launcher\Constants\bin\Debug\WowSuite.Constants.dll
+I:\WoWProjekt\FM Launcher\launcher\Constants\bin\Debug\WowSuite.Constants.pdb
+I:\WoWProjekt\FM Launcher\launcher\Constants\obj\Debug\WowSuite.Constants.csprojResolveAssemblyReference.cache
+I:\WoWProjekt\FM Launcher\launcher\Constants\obj\Debug\WowSuite.Constants.dll
+I:\WoWProjekt\FM Launcher\launcher\Constants\obj\Debug\WowSuite.Constants.pdb
+D:\WoWProjekt\Backup\FM Launcher\launcher\Constants\bin\Debug\WowSuite.Constants.dll
+D:\WoWProjekt\Backup\FM Launcher\launcher\Constants\bin\Debug\WowSuite.Constants.pdb
+D:\WoWProjekt\Backup\FM Launcher\launcher\Constants\obj\Debug\WowSuite.Constants.dll
+D:\WoWProjekt\Backup\FM Launcher\launcher\Constants\obj\Debug\WowSuite.Constants.pdb

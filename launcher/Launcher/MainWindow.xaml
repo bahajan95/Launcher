@@ -1,0 +1,416 @@
+﻿<Window x:Class="WowSuite.Launcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:animation="clr-namespace:WowSuite.Launcher.Animation"
+        xmlns:controls="clr-namespace:WowSuite.Launcher.Controls"
+        Title="Launcher"
+        Width="1105"
+        Height="665"
+        AllowsTransparency="True"
+        Background="#02FFFFFF"
+        Icon="111111.ico"
+        Loaded="Window_Loaded"
+        ResizeMode="CanMinimize"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None" MouseLeftButtonDown="Window_MouseLeftButtonDown" MouseMove="Window_MouseMove">
+    <Grid>
+        <Border Margin="5"
+                Background="#FFFDFDFD"
+                Effect="{StaticResource WindowDropShadowEffectKey}" />
+        <Grid Margin="5" RenderTransformOrigin="0.523,0.492">
+            <!-- Template -->
+            <Image x:Name="bg"
+               Width="1172"
+               Height="777"
+               Margin="-41,-30,-36,-92"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Top"
+               RenderTransformOrigin="0.5,0.5"
+               Source="Resources/bg.jpg">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform />
+                        <SkewTransform />
+                        <RotateTransform />
+                        <TranslateTransform />
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+
+            <Image x:Name="handAxe"
+               Width="670"
+               Height="444"
+               Margin="167,166,0,0"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Top"
+               RenderTransformOrigin="0.5,0.5"
+               Source="Resources/hand_axe.png">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform />
+                        <SkewTransform />
+                        <RotateTransform />
+                        <TranslateTransform />
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+
+            <Image x:Name="hand"
+               Width="603"
+               Height="396"
+               Margin="14,402,0,-138"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Top"
+               RenderTransformOrigin="0.5,0.5"
+               Source="Resources/hand.png">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform />
+                        <SkewTransform />
+                        <RotateTransform Angle="0.281" />
+                        <TranslateTransform />
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+
+            <Image x:Name="ork"
+               Width="1041"
+               Height="689"
+               Margin="-2,127,0,-156"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Top"
+               RenderTransformOrigin="0.5,0.5"
+               Source="Resources/ork2.png">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform />
+                        <SkewTransform />
+                        <RotateTransform />
+                        <TranslateTransform />
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+
+            <Image x:Name="blik"
+               Width="721"
+               Height="477"
+               Margin="188,256,0,-73"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Top"
+               Opacity="0.7"
+               RenderTransformOrigin="0.5,0.5"
+               Source="Resources/blic.png">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform />
+                        <SkewTransform />
+                        <RotateTransform Angle="143.846" />
+                        <TranslateTransform />
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+
+            <Image x:Name="statusBar" Width="296"
+               Height="100"
+               Margin="410,86,0,0"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Top"
+               Source="Resources/status_bar.png" />
+            <Image x:Name="navigation" Width="994"
+               Height="137"
+               Margin="59,10,0,0"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Top"
+               Source="Resources/nav.png" />
+            <!-- Template -->
+            <Image x:Name="hotNewsBlock"
+                   Width="278"
+                   Height="335"
+                   Margin="1,175,0,0"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Top"
+                   Source="Resources/hotNewsBlock.png" />
+
+            <Image x:Name="bannersFrame"
+                   Width="541"
+                   Height="346"
+                   Margin="554,172,0,0"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Top"
+                   Source="Resources/news_bg.png" />
+
+            <Label x:Name="onlinePlayer"
+                       Width="52"
+                       Height="30"
+                       Margin="622,110,0,0"
+                       HorizontalAlignment="Left"
+                       VerticalAlignment="Top"
+                       Content="0"
+                       FontFamily="Arial"
+                       FontSize="18"
+                       FontWeight="Bold"
+                       Foreground="White" />
+            <Label x:Name="on_off"
+                       Width="95"
+                       Margin="444,123,0,0"
+                       HorizontalAlignment="Left"
+                       VerticalAlignment="Top"
+                       Content="status"
+                       FontFamily="Arial"
+                       Foreground="#FFFFFDFD" />
+            <Label x:Name="servername"
+                       Width="91"
+                       Margin="442,106,0,0"
+                       HorizontalAlignment="Left"
+                       VerticalAlignment="Top"
+                       Content="Server"
+                       FontFamily="Arial"
+                       FontSize="14"
+                       FontWeight="Bold"
+                       Foreground="#FFFFFDFD" />
+
+
+
+
+            <Button x:Name="playButton"
+                    Width="224"
+                    Height="68"
+                    Margin="151,564,720,0"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                    Click="PlayButton_Click"
+                    Content="PLAY"
+                    Style="{StaticResource PlayButtonStyle}" />
+
+            <Button x:Name="onlinebutton"
+                    Width="24"
+                    Height="30"
+                    Margin="601,108,470,0"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                    Click="OnlineButton_Click"
+                    Style="{StaticResource OnlineButtonStyle}"
+                    ToolTip="Statistic Online" />
+
+
+            <StackPanel Width="75"
+                        Height="26"
+                        Margin="0,2,2,0"
+                        HorizontalAlignment="Right"
+                        VerticalAlignment="Top"
+                        Orientation="Horizontal">
+
+                <Button x:Name="settinsButton"
+                        Width="16"
+                        Height="16"
+                        Margin="0,3,1,2"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center"
+                        Click="SettinsButton_Click"
+                        FontSize="16"
+                        Style="{StaticResource SettingsButtonStyle}"
+                        ToolTip="Settings" />
+
+                <!--  Стиль у кнопки один, это такой шрифт просто, в котором есть значок крестик и свернуть  -->
+                <Button x:Name="minimizeButton"
+                        Width="21"
+                        Height="21"
+                        Margin="1,3,1,2"
+                        Click="MinimizeButton_OnClick"
+                        Content="0"
+                        FontSize="16"
+                        Style="{StaticResource WindowBorderButtonStyle}"
+                        ToolTip="Minimize" />
+
+                <!--  Стиль у кнопки один, это такой шрифт просто, в котором есть значок крестик и свернуть  -->
+                <Button x:Name="closeButton"
+                        Width="21"
+                        Height="21"
+                        Margin="1,3,1,2"
+                        Click="CloseButton_OnClick"
+                        Content="r"
+                        FontSize="16"
+                        Style="{StaticResource WindowBorderButtonStyle}"
+                        ToolTip="Close" />
+
+            </StackPanel>
+
+            <Button x:Name="regButton"
+                    Width="128"
+                    Margin="493,65,0,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Click="RegButton_Click"
+                    Content="REGISTRATION"
+                    FontFamily="Resources/BlizzardBol.ttf"
+                    FontSize="16"
+                    FontWeight="Bold"
+                    Style="{StaticResource TextButtonStyle}" />
+
+            <Button x:Name="forumButton"
+                    Width="80"
+                    Margin="772,65,0,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Click="ForumButton_OnClick"
+                    Content="FORUM"
+                    FontFamily="Resources/BlizzardBol.ttf"
+                    FontSize="16"
+                    FontWeight="Bold"
+                    Style="{StaticResource TextButtonStyle}" />
+
+            <Button x:Name="lkButton"
+                    Width="116"
+                    Margin="636,65,0,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Background="{x:Null}"
+                    Click="LkButton_OnClick"
+                    Content="ACCOUNT"
+                    FontFamily="Resources/BlizzardBol.ttf"
+                    FontSize="16"
+                    FontWeight="Bold"
+                    Style="{StaticResource TextButtonStyle}" />
+
+            <!--
+                Width="151"
+                Height="26"
+                Margin="167,230,0,0"
+            -->
+            <Button x:Name="cacheDeleteButton"
+                    Width="123"
+                    Height="26"
+                    Margin="362,64,0,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Click="CacheDeleteButton_Click"
+                    Content="CLEAR CACHE"
+                    FontFamily="Resources/BlizzardBol.ttf"
+                    FontSize="16"
+                    FontWeight="Bold"
+                    Style="{StaticResource TextButtonStyle}" />
+
+            <Button x:Name="realmListButton"
+                    Width="108"
+                    Height="26"
+                    Margin="249,64,0,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Click="RealmListButton_Click"
+                    Content="REALMLIST"
+                    FontFamily="Resources/BlizzardBol.ttf"
+                    FontSize="16"
+                    FontWeight="Bold"
+                    Style="{StaticResource TextButtonStyle}"
+                />
+
+            <Image Width="16"
+                   Height="20"
+                   Margin="504,250,0,0"
+                   Source="Resources/contextMenu_install_green.png"
+                   Stretch="None"
+                   Visibility="Hidden" />
+
+            <ProgressBar x:Name="progressBar"
+                         Width="338.667"
+                         Height="3"
+                         Margin="612.333,615.124,0,0"
+                         HorizontalAlignment="Left"
+                         VerticalAlignment="Top"
+                         Background="{x:Null}"
+                         OverridesDefaultStyle="True"
+                         Padding="0"
+                         RenderTransformOrigin="1,1"
+                         ScrollViewer.CanContentScroll="True"
+                         UseLayoutRounding="False">
+                <ProgressBar.BorderBrush>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                        <GradientStop Offset="0" Color="#FF420000" />
+                        <GradientStop Offset="1" Color="#FF380000" />
+                    </LinearGradientBrush>
+                </ProgressBar.BorderBrush>
+            </ProgressBar>
+
+            <Label x:Name="newsLabel"
+                   Width="189"
+                   Margin="186,281,0,0"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Top"
+                   Content="Описание обновления"
+                   FontSize="16"
+                   FontWeight="Bold"
+                   Foreground="#FFE0E0E0"
+                   Visibility="Hidden" />
+
+            <TextBlock x:Name="newsAvailible"
+                       Margin="452,557,0,0"
+                       HorizontalAlignment="Left"
+                       VerticalAlignment="Top"
+                       FontFamily="Arial"
+                       Foreground="#FFD6D2D2"
+                       TextWrapping="Wrap" />
+
+
+            <TextBox x:Name="hotNewsTextBox"
+                     Width="230"
+                     Height="264"
+                     Margin="15,230,0,0"
+                     HorizontalAlignment="Left"
+                     VerticalAlignment="Top"
+                     BorderThickness="0"
+                     Cursor="Arrow"
+                     Foreground="#FFB6A4A4"
+                     IsReadOnly="True"
+                     RenderTransformOrigin="0.5,0.5"
+                     TextWrapping="Wrap"
+                     VerticalScrollBarVisibility="Visible">
+                <TextBox.BorderBrush>
+                    <LinearGradientBrush MappingMode="Absolute" StartPoint="0,0" EndPoint="0,20">
+                        <GradientStop Offset="0.05" Color="#FFABADB3" />
+                        <GradientStop Offset="0.07" Color="#FFE2E3EA" />
+                        <GradientStop Offset="1" Color="#FF424242" />
+                    </LinearGradientBrush>
+                </TextBox.BorderBrush>
+                <TextBox.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform />
+                        <SkewTransform AngleY="0.119" />
+                        <RotateTransform />
+                        <TranslateTransform Y="0.248" />
+                    </TransformGroup>
+                </TextBox.RenderTransform>
+                <TextBox.Background>
+                    <SolidColorBrush Opacity="0" Color="#FF060606" />
+                </TextBox.Background>
+            </TextBox>
+
+            <animation:AnimatedImageControl x:Name="initIndicator"
+                                            Width="40"
+                                            Height="40"
+                                            Margin="0,0,15,17"
+                                            HorizontalAlignment="Right"
+                                            VerticalAlignment="Bottom" />
+
+
+
+            <controls:NewsRotator x:Name="bannersLoader"
+                                  Margin="575,196,37,193"
+                                  Cursor="Hand"
+                                  Foreground="#FFFFFFFF" />
+            <Label x:Name="hotNewsLabel"
+                   Width="166"
+                   Height="33"
+                   Margin="56,185,0,0"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Top"
+                   Content="HOT NEWS"
+                   FontSize="16"
+                   Foreground="White" 
+                   FontFamily="Resources/BlizzardReg.ttf" 
+                   />
+
+        </Grid>
+
+    </Grid>
+
+</Window>
